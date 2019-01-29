@@ -1,2 +1,1 @@
 # hugo-quickstart
-# hugo-quickstart
